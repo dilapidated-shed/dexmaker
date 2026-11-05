@@ -3,6 +3,7 @@
 
     <application>
         <activity android:name="com.android.dx.mockito.inline.extended.tests.EmptyActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:theme="@style/Theme.Charcoal" />
     </application>
 </manifest>
